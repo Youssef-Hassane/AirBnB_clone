@@ -1,0 +1,38 @@
+{
+    "BaseModel.9df5ba64-5133-4959-af4e-3197fa794150": {
+        "id": "9df5ba64-5133-4959-af4e-3197fa794150",
+        "created_at": "2024-03-10T17:04:48.777101",
+        "updated_at": "2024-03-10T17:04:48.777106",
+        "__class__": "BaseModel"
+    },
+    "User.4fa3e35f-7cd9-4c5f-bfa8-d95729c5e041": {
+        "id": "4fa3e35f-7cd9-4c5f-bfa8-d95729c5e041",
+        "created_at": "2024-03-10T23:05:20.109036",
+        "updated_at": "2024-03-10T23:05:20.109045",
+        "first_name": "Youssef",
+        "last_name": "Hassane",
+        "email": "Youssef_hassane@icloud.com",
+        "password": "ROOT",
+        "__class__": "User"
+    },
+    "User.6007a22a-1a9d-4ee7-a8c8-2ad23059804c": {
+        "id": "6007a22a-1a9d-4ee7-a8c8-2ad23059804c",
+        "created_at": "2024-03-10T23:06:09.697889",
+        "updated_at": "2024-03-10T23:06:09.697895",
+        "first_name": "Youssef",
+        "last_name": "Hassane",
+        "email": "Youssef_hassane@icloud.com",
+        "password": "ROOT",
+        "__class__": "User"
+    },
+    "User.690f2bea-1b95-45c5-950a-63cd480b9022": {
+        "id": "690f2bea-1b95-45c5-950a-63cd480b9022",
+        "created_at": "2024-03-10T23:06:41.664244",
+        "updated_at": "2024-03-10T23:06:41.664251",
+        "first_name": "Youssef",
+        "last_name": "Hassane",
+        "email": "Youssef_hassane@icloud.com",
+        "password": "ROOT",
+        "__class__": "User"
+    }
+}
