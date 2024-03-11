@@ -285,7 +285,7 @@ class HBNBCommand(cmd.Cmd):
         method_map = {
             "all": self.do_all, "show": self.do_show,
             "destroy": self.do_destroy, "count": self.do_count,
-            "update": self.do_update
+            "update": self.do_update, "create": self.do_create
         }
         # Parse the line to extract method, class and args
 
