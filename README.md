@@ -41,7 +41,7 @@ The console allows for the user to interact with the system in a more human-frie
 Ⓜ️ 0. Inline styling				COMPLETED ✅	
 Ⓜ️ 1. 1. Head styling 				COMPLETED ✅	
 Ⓜ️ 2. CSS files 				COMPLETED ✅ 
-Ⓜ️ 3. Zoning done! 				NOT STARTED ❌	
+Ⓜ️ 3. Zoning done! 				COMPLETED ✅	
 Ⓜ️ 4. Search!					NOT STARTED ❌	
 Ⓜ️ 5. More filters 				NOT STARTED ❌
 Ⓜ️ 6. It's (h)over				NOT STARTED ❌ 
@@ -66,6 +66,10 @@ The console allows for the user to interact with the system in a more human-frie
 ## Task 2: CSS files
 ### Screenshot of 2-index.html:
 ![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/2_CSS_files.png)
+
+## Task 3: Zoning done!
+### Screenshot of 3-index.html:
+![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/3_Zoning_done.png)
 
 ## Developers:
 
