@@ -45,10 +45,10 @@ The console allows for the user to interact with the system in a more human-frie
 Ⓜ️ 4. Search!					NOT STARTED ❌	
 Ⓜ️ 5. More filters 				NOT STARTED ❌
 Ⓜ️ 6. It's (h)over				NOT STARTED ❌ 
-Ⓜ️ 7. Display results			NOT STARTED ❌
+Ⓜ️ 7. Display results				NOT STARTED ❌
 Ⓜ️ 8. More details				NOT STARTED ❌
 🚀 9. Full details				NOT STARTED ❌
-🚀 10. Flex						NOT STARTED ❌
+🚀 10. Flex					NOT STARTED ❌
 🚀 11. Responsive design		NOT STARTED ❌
 🚀 12. Accessibility 			NOT STARTED ❌
 ```
