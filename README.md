@@ -55,9 +55,9 @@ The console allows for the user to interact with the system in a more human-frie
 
 ## Task 0: Inline styling
 ### Screenshot of 0-index.html:
-	![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/0_Inline_styling_1.png)
+![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/0_Inline_styling_1.png)
 ### W3C-Validator:
-	![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/0_Inline_styling_2.png)
+![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/0_Inline_styling_2.png)
 
 
 ## Developers:
