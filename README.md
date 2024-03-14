@@ -10,25 +10,53 @@ The console allows for the user to interact with the system in a more human-frie
 
 ## Tasks:
 ```
-Ⓜ️ 0. README, AUTHORS:				COMPLETED ✅	
-Ⓜ️ 1. Be pycodestyle compliant: 		COMPLETED ✅	
+Ⓜ️ 0. README, AUTHORS:				NOT STARTED ❌	
+Ⓜ️ 1. Be pycodestyle compliant: 		NOT STARTED ❌	
 Ⓜ️ 2. Unittests: 				🚨 Check #2 Down 🚨 
-Ⓜ️ 3. BaseModel: 				COMPLETED ✅	
-Ⓜ️ 4. Create BaseModel from dictionary:		COMPLETED ✅	
-Ⓜ️ 5. Store first object: 			COMPLETED ✅
-Ⓜ️ 6. Console 0.0.1:				COMPLETED ✅ 
-Ⓜ️ 7. Console 0.1:				COMPLETED ✅
-Ⓜ️ 8. First User:				COMPLETED ✅
-Ⓜ️ 9. More classes:				COMPLETED ✅
-Ⓜ️ 10. Console 1.0:				COMPLETED ✅
-🚀 11. All instances by class name:		COMPLETED ✅
-🚀 12. Count instances: 			COMPLETED ✅
-🚀 13. Show: 					COMPLETED ✅
-🚀 14. Destroy: 				COMPLETED ✅
-🚀 15. Update: 					COMPLETED ✅
-🚀 16. Update from dictionary: 			COMPLETED ✅
-🚀 17. Unittests for the Console: 		COMPLETED ✅
+Ⓜ️ 3. BaseModel: 				NOT STARTED ❌	
+Ⓜ️ 4. Create BaseModel from dictionary:		NOT STARTED ❌	
+Ⓜ️ 5. Store first object: 			NOT STARTED ❌
+Ⓜ️ 6. Console 0.0.1:				NOT STARTED ❌ 
+Ⓜ️ 7. Console 0.1:				NOT STARTED ❌
+Ⓜ️ 8. First User:				NOT STARTED ❌
+Ⓜ️ 9. More classes:				NOT STARTED ❌
+Ⓜ️ 10. Console 1.0:				NOT STARTED ❌
+🚀 11. All instances by class name:		NOT STARTED ❌
+🚀 12. Count instances: 			NOT STARTED ❌
+🚀 13. Show: 					NOT STARTED ❌
+🚀 14. Destroy: 				NOT STARTED ❌
+🚀 15. Update: 					NOT STARTED ❌
+🚀 16. Update from dictionary: 			NOT STARTED ❌
+🚀 17. Unittests for the Console: 		NOT STARTED ❌
 ```
+
+---
+
+# 0x01. AirBnB clone - Web static
+
+
+
+## Tasks (Overall):
+```
+Ⓜ️ 0. Inline styling				COMPLETED ✅	
+Ⓜ️ 1. 1. Head styling 		NOT STARTED ❌	
+Ⓜ️ 2. CSS files 				NOT STARTED ❌ 
+Ⓜ️ 3. Zoning done! 				NOT STARTED ❌	
+Ⓜ️ 4. Search!		NOT STARTED ❌	
+Ⓜ️ 5. More filters 			NOT STARTED ❌
+Ⓜ️ 6. It's (h)over				NOT STARTED ❌ 
+Ⓜ️ 7. Display results				NOT STARTED ❌
+Ⓜ️ 8. More details				NOT STARTED ❌
+🚀 9. Full details				NOT STARTED ❌
+🚀 10. Flex				NOT STARTED ❌
+🚀 11. Responsive design		NOT STARTED ❌
+🚀 12. Accessibility 			NOT STARTED ❌
+```
+
+## Task 0: Inline styling
+![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/0_Inline_styling_1.png)
+![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/0_Inline_styling_2.png)
+
 
 ## Developers:
 
