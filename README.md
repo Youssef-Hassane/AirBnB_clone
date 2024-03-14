@@ -39,7 +39,7 @@ The console allows for the user to interact with the system in a more human-frie
 ## Tasks (Overall):
 ```
 Ⓜ️ 0. Inline styling				COMPLETED ✅	
-Ⓜ️ 1. 1. Head styling 			NOT STARTED ❌	
+Ⓜ️ 1. 1. Head styling 				NOT STARTED ❌	
 Ⓜ️ 2. CSS files 				NOT STARTED ❌ 
 Ⓜ️ 3. Zoning done! 				NOT STARTED ❌	
 Ⓜ️ 4. Search!					NOT STARTED ❌	
@@ -49,8 +49,8 @@ The console allows for the user to interact with the system in a more human-frie
 Ⓜ️ 8. More details				NOT STARTED ❌
 🚀 9. Full details				NOT STARTED ❌
 🚀 10. Flex					NOT STARTED ❌
-🚀 11. Responsive design		NOT STARTED ❌
-🚀 12. Accessibility 			NOT STARTED ❌
+🚀 11. Responsive design			NOT STARTED ❌
+🚀 12. Accessibility 				NOT STARTED ❌
 ```
 
 ## Task 0: Inline styling
