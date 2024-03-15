@@ -80,8 +80,8 @@ The console allows for the user to interact with the system in a more human-frie
 ![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/5_More_filters.png)
 
 ## Task 6: More filters
-### Gif of 5-index.html:
-![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/6_Its_(h)over.gif)
+### Gif of 6-index.html:
+![](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/6_Its_(h)over.gif)
 
 
 ## Developers:
