@@ -45,7 +45,7 @@ The console allows for the user to interact with the system in a more human-frie
 Ⓜ️ 4. Search!					COMPLETED ✅	
 Ⓜ️ 5. More filters 				COMPLETED ✅
 Ⓜ️ 6. It's (h)over				COMPLETED ✅ 
-Ⓜ️ 7. Display results				NOT STARTED ❌
+Ⓜ️ 7. Display results				COMPLETED ✅
 Ⓜ️ 8. More details				NOT STARTED ❌
 🚀 9. Full details				NOT STARTED ❌
 🚀 10. Flex					NOT STARTED ❌
@@ -83,6 +83,9 @@ The console allows for the user to interact with the system in a more human-frie
 ### Gif of 6-index.html:
 ![](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/6_Its_(h)over.gif)
 
+## Task 7: More filters
+### Screenshot of 7-index.html:
+![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/7_Display_results.png)
 
 ## Developers:
 
