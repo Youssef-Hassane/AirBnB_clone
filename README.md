@@ -43,7 +43,7 @@ The console allows for the user to interact with the system in a more human-frie
 Ⓜ️ 2. CSS files 				COMPLETED ✅ 
 Ⓜ️ 3. Zoning done! 				COMPLETED ✅	
 Ⓜ️ 4. Search!					COMPLETED ✅	
-Ⓜ️ 5. More filters 				NOT STARTED ❌
+Ⓜ️ 5. More filters 				COMPLETED ✅
 Ⓜ️ 6. It's (h)over				NOT STARTED ❌ 
 Ⓜ️ 7. Display results				NOT STARTED ❌
 Ⓜ️ 8. More details				NOT STARTED ❌
