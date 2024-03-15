@@ -75,6 +75,9 @@ The console allows for the user to interact with the system in a more human-frie
 ### Screenshot of 4-index.html:
 ![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/4_Search.png)
 
+## Task 5: More filters
+### Screenshot of 5-index.html:
+![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/5_More_filters.png)
 
 ## Developers:
 
