@@ -44,7 +44,7 @@ The console allows for the user to interact with the system in a more human-frie
 Ⓜ️ 3. Zoning done! 				COMPLETED ✅	
 Ⓜ️ 4. Search!					COMPLETED ✅	
 Ⓜ️ 5. More filters 				COMPLETED ✅
-Ⓜ️ 6. It's (h)over				NOT STARTED ❌ 
+Ⓜ️ 6. It's (h)over				COMPLETED ✅ 
 Ⓜ️ 7. Display results				NOT STARTED ❌
 Ⓜ️ 8. More details				NOT STARTED ❌
 🚀 9. Full details				NOT STARTED ❌
@@ -78,6 +78,11 @@ The console allows for the user to interact with the system in a more human-frie
 ## Task 5: More filters
 ### Screenshot of 5-index.html:
 ![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/5_More_filters.png)
+
+## Task 6: More filters
+### Gif of 5-index.html:
+![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/6_Its_(h)over.gif)
+
 
 ## Developers:
 
