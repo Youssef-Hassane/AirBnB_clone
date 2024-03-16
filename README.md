@@ -87,6 +87,11 @@ The console allows for the user to interact with the system in a more human-frie
 ### Screenshot of 7-index.html:
 ![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/7_Display_results.png)
 
+## Task 8: More details
+### Screenshot of 8-index.html:
+![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/8_More_details.png)
+
+
 ## Developers:
 
 | **Youssef Hassane (AKA Almasy)** | **Ahmed Abdelhamid (AKA 7medo)** |
