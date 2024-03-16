@@ -47,7 +47,7 @@ The console allows for the user to interact with the system in a more human-frie
 Ⓜ️ 6. It's (h)over				COMPLETED ✅ 
 Ⓜ️ 7. Display results				COMPLETED ✅
 Ⓜ️ 8. More details				COMPLETED ✅
-🚀 9. Full details				NOT STARTED ❌
+🚀 9. Full details				COMPLETED ✅
 🚀 10. Flex					NOT STARTED ❌
 🚀 11. Responsive design			NOT STARTED ❌
 🚀 12. Accessibility 				NOT STARTED ❌
@@ -90,6 +90,11 @@ The console allows for the user to interact with the system in a more human-frie
 ## Task 8: More details
 ### Screenshot of 8-index.html:
 ![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/8_More_details.png)
+
+## Task 9: Full details
+### Screenshot of 8-index.html:
+![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/9_Full_details.png)
+
 
 
 ## Developers:
