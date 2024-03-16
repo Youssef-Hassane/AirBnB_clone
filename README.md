@@ -95,7 +95,7 @@ The console allows for the user to interact with the system in a more human-frie
 ![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/9_Full_details.png)
 
 ## Task 11: Responsive design
-### GIF of 8-index.html: (🚨Please, wait 10 seconds so that the GIF gets loaded🚨)
+### GIF of 102-index.html: (🚨Please, wait 10 seconds so that the GIF gets loaded🚨)
 ![](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/video56.gif)
 
 ## Developers:
