@@ -34,8 +34,6 @@ The console allows for the user to interact with the system in a more human-frie
 
 # 0x01. AirBnB clone - Web static
 
-
-
 ## Tasks (Overall):
 ```
 Ⓜ️ 0. Inline styling				COMPLETED ✅	
@@ -53,11 +51,12 @@ The console allows for the user to interact with the system in a more human-frie
 🚀 12. Accessibility 				COMPLETED ✅
 ```
 
+## W3C-Validator:
+![](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/video55.gif)
+
 ## Task 0: Inline styling
 ### Screenshot of 0-index.html:
 ![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/0_Inline_styling_1.png)
-### W3C-Validator:
-![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/0_Inline_styling_2.png)
 
 ## Task 1: Head styling
 ### Screenshot of 1-index.html:
@@ -95,7 +94,9 @@ The console allows for the user to interact with the system in a more human-frie
 ### Screenshot of 8-index.html:
 ![Screenshot](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/9_Full_details.png)
 
-
+## Task 11: Responsive design
+### GIF of 8-index.html:
+![](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/video56.gif)
 
 ## Developers:
 
