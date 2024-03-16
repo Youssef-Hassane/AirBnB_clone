@@ -51,7 +51,7 @@ The console allows for the user to interact with the system in a more human-frie
 🚀 12. Accessibility 				COMPLETED ✅
 ```
 
-## W3C-Validator (<span style="color:red">Please, wait 10 seconds so that the GIF gets loaded.</span>):
+## W3C-Validator (<p style="color:red">Please, wait 10 seconds so that the GIF gets loaded.</p>):
 ![](https://github.com/Youssef-Hassane/AirBnB_clone/blob/main/images/video55.gif)
 
 ## Task 0: Inline styling
